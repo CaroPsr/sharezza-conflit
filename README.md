@@ -1,3 +1,4 @@
+LOCAL
 # sharezza-conflit
 Bonjour tout le monde
 Nous allons créer un conflit
